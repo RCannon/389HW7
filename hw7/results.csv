@@ -1,0 +1,21 @@
+MacOS			VM	
+atoi			atoi	
+test#	Best Run time (seconds)		test#	Best Run time (seconds)
+1	0.053345		1	0.034703
+2	0.054827		2	0.03483
+3	0.053747		3	0.034763
+Super Na夫e			Super Na夫e	
+test#	Best Run time (seconds)		test#	Best Run time (seconds)
+1	0.090951		1	0.094023
+2	0.090432		2	0.094442
+3	0.090251		3	0.094474
+Na夫e			Na夫e	
+test#	Best Run time (seconds)		test#	Best Run time (seconds)
+1	0.010259		1	0.010308
+2	0.010236		2	0.010333
+3	0.010241		3	0.010316
+Optimized			Optimized	
+test#	Best Run time (seconds)		test#	Best Run time (seconds)
+1	0.005402		1	0.004519
+2	0.005331		2	0.004514
+3	0.005398		3	0.004526
