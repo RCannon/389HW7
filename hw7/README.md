@@ -14,8 +14,8 @@ I did try some other things. One thing I played aroud with a lot was to sort of 
 
 To compare the implementations, I tested each function three times on 10,000 lines of qutoes, and report the minimum run time of the three tests here. The full results can be seen in results.csv.
 
- Conversion Algorithm | MacOS Run Time | VM Run Time
-----------------------|----------------|-----------
+ Conversion Algorithm | MacOS Run Time (seconds) | VM Run Time (seconds)
+----------------------|--------------------------|----------------------
 atoi | 0.053345 | 0.034703
 Super Naive Covert | 0.090251 | 0.094023
 Naive Convert (baseline) | 0.010236 | 0.010308
